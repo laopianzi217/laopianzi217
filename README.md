@@ -9,6 +9,7 @@ Focusing on real-time price trends and secondary market liquidity in **South Kor
 I am currently maintaining a localized data repository for the Korean luxury watch market, providing insights into Rolex, Patek Philippe, and Audemars Piguet price movements in Seoul.
 
 * **Live Data:** [https://laopianzi217.github.io/kr-watch-trade-01/](https://laopianzi217.github.io/kr-watch-trade-01/)
+* **Local Node:** [https://laopianzi217.github.io/Korean-Luxury-Watch-Watch/](https://laopianzi217.github.io/Korean-Luxury-Watch-Watch/)
 * **Primary Hub:** [https://replicawatcheslive.top/](https://replicawatcheslive.top/)
 
 ---
@@ -20,7 +21,6 @@ Part of a decentralized network monitoring high-end horology across major hubs:
 * 🇹🇷 [Türkiye Saat Pazarı](https://rosangone.github.io/tr-watch-market-01/)
 * 🇩🇪 [Deutschland Analyse](https://w-he-corp.github.io/de-watch-market-01/)
 * 🇮🇹 [Mercato Italia](https://technology-enthusiast-he.github.io/it-watch-market-01/)
-* kr [한국 명품 시계](https://laopianzi217.github.io/Korean-Luxury-Watch-Watch/)
 
 ---
 
