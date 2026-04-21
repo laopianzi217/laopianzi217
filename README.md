@@ -1,4 +1,4 @@
-# 👋 Hi, I'm WatchSeoul (laopianzi217)
+# Hi, I'm WatchSeoul (laopianzi217)
 
 ### 📊 Luxury Watch Market Analyst | Data Scientist
 Focusing on real-time price trends and secondary market liquidity in **South Korea**.
